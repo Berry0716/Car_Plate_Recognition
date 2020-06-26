@@ -1,0 +1,2 @@
+# Car_Plate_Recognition
+ 使用OpenCV进行车牌识别和分割，使用keras对分割字符进行训练
